@@ -47,6 +47,6 @@ Weak Value Perception: If a user does not experience multiple banking features, 
 ## Conclusion
 This project demonstrates that customer engagement is the absolute foundation of retention. As a Business Intelligence Analyst, this project allowed me to sharpen my practical skills in data cleaning with Power Query, metric calculations in Excel, and interactive dashboard storytelling in Power BI to solve real business challenges.
 ## DASHBOARD
-![Power BI Dashboard Screenshot](Screenshot (113).png)
+![Power BI Dashboard Screenshot]<img width="963" height="583" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/9eed77f9-7a38-4871-90c2-06286eae9edf" />
 
 
