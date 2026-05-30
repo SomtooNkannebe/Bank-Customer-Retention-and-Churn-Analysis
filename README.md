@@ -3,6 +3,10 @@ A data analytics project analyzing 10,000 banking records to uncover why custome
 
 ## Project Overview
 This project analyzes a dataset of 10,000 bank customers to discover the primary reasons behind customer churn (loss rate) and identify patterns that lead to account closures. Using these data insights, I developed actionable recommendations to help the bank improve customer engagement and increase retention rates.
+## Business Objectives
+* Identify the key demographic and behavioral traits of customers who are most likely to churn.
+* Build an interactive dashboard to monitor customer activity and product adoption.
+* Provide actionable, data-driven recommendations to reduce churn and improve customer re-engagement.
 ## Tools Used
 1. Excel: Used for core data grouping, dynamic customer segmentation, and initial calculations.
 2. Power Query: Used for end-to-end data cleaning, handling missing values, and column transformations.
