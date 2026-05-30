@@ -37,11 +37,11 @@ Tenure: How long a customer has been with the bank does not stop them from leavi
 Salary: Income brackets have zero correlation with loyalty. Very Low, Medium, and High salary groups all maintained the exact same 20% to 21% churn rate.
 ### Root Causes of Churn
 Based on the behavioral trends in the data, five main factors drive customers to close their accounts:
-Low Account Density: Single-product users face zero switching costs and lack a strong connection to the bank.
-Unaddressed Inactivity: A drop in regular account usage serves as a direct leading indicator of impending churn.
-Competitor Attrition: Disengaged users easily jump to rival banks offering better mobile apps or lower fees.
-Friction in Service: Slow response times or unresolved complaints push customers away.
-Weak Value Perception: If a user does not experience multiple banking features, they see little benefit in remaining loyal.
+* Low Account Density: Single-product users face zero switching costs and lack a strong connection to the bank.
+* Unaddressed Inactivity: A drop in regular account usage serves as a direct leading indicator of impending churn.
+* Competitor Attrition: Disengaged users easily jump to rival banks offering better mobile apps or lower fees.
+* Friction in Service: Slow response times or unresolved complaints push customers away.
+* Weak Value Perception: If a user does not experience multiple banking features, they see little benefit in remaining loyal.
 ## Recommendations
 * Implement Cross-Selling: Introduce targeted bundles and reward incentives to transition single-product users into multiple services (e.g., adding a savings account or credit card).
 * Proactive Re-engagement: Set up automated alerts to flag and reach out to passive accounts showing zero transaction activity over a rolling 30-day window.
